@@ -30,6 +30,10 @@ Juin 2020
 # 🎓 Formation
 
 ### Digital Campus, Paris
+**Master Tech Lead**  
+Octobre 2024 – Juillet 2026
+
+### Digital Campus, Paris
 **Bachelor Développement Web**  
 Septembre 2022 – Juillet 2024
 
